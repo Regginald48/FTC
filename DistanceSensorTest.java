@@ -1,3 +1,4 @@
+// THIS CODE DISPLAYS THE INPUT OF THE DISTANCE SCANNER IN INCHES, METERS, CM, AND MM
 package org.firstinspires.ftc.teamcode;
 
 import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode;
